@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    background-color: darkblue;
+}
+h1 {
+    text-align: center;
+    color: darkcyan;
+}
+h1:hover{
+    color:cornflowerblue;
+}
+img {
+   width: 100px ;
+   transform: translateX(0px);
+   transition: 4s ease-in;
+   margin: ;
+  
+  
+}
+
+img:hover{
+     transform: scale(2);
+    
+}
+   P:hover{
+      color: rgb(6, 1, 75);
+      background-image: linear-gradient(white,blue,darkblue);
+   }
+   a{
+       text-decoration: none;
+    font-size: 20px;
+    color: white;
+    background-image: linear-gradient(white,blue, darkblue);
+    padding: 10px;
+    border-radius: 10px;
+     
+   }
